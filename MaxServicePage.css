@@ -1,0 +1,42 @@
+.Mowing{
+	font-size:20px;
+	color:red;
+}
+
+.Chemicals{
+	font-size:15px;
+	color:yellow;
+}
+
+.Weeds{
+	font-size:20px;
+	color:purple;
+}
+
+.sunny{
+max-width:750px;
+max-height:500px;
+height:500px;
+width:750px;
+}
+
+.grassy{
+max-width:750px;
+max-height:500px;
+height:500px;
+width:750px;
+}
+
+.flowery{
+max-width:750px;
+max-height:500px;
+height:500px;
+width:750px;
+}
+
+.gardeny{
+max-width:750px;
+max-height:500px;
+height:500px;
+width:750px;
+}
