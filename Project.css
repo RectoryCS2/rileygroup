@@ -1,0 +1,57 @@
+.gardening{
+  color:green;
+  font-size:30px;
+}
+
+.weeds{
+  font-size:20px;
+  color:green;
+}
+
+.flowers{
+  font-size:20px;
+  color:green;
+}
+
+.colorful{
+  font-size:22px;
+  color:orange;
+}
+
+.contact{
+  font-size:30px;
+  color:green;
+}
+
+.info{
+  font-size:20px;
+  color:red;
+}
+
+.lawn{
+  font-size:20px;
+  color:red;
+}
+
+.outstanding{
+  margin-left:550px;
+  margin-bottom:450px;
+  margin-top:50px;
+}
+
+.rad{
+  height:370px;
+  max-height:370px;
+  width:800px;
+  max-width:800px;
+  margin-top:-500px;
+}
+
+.fun{
+  height:500px;
+  max-height:500px;
+  width:800px;
+  max-width:800px;
+  margin-top:40px;
+  margin-left:350px;
+}
