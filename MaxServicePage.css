@@ -5,7 +5,7 @@
 
 .Chemicals{
 	font-size:15px;
-	color:yellow;
+	color:blue;
 }
 
 .Weeds{
@@ -17,26 +17,30 @@
 max-width:750px;
 max-height:500px;
 height:500px;
-width:750px;
+width:712px;
+float:right;
 }
 
 .grassy{
 max-width:750px;
 max-height:500px;
 height:500px;
-width:750px;
+width:712px;
+float:left;
 }
 
 .flowery{
 max-width:750px;
 max-height:500px;
 height:500px;
-width:750px;
+width:712px;
+float:right;
 }
 
 .gardeny{
 max-width:750px;
 max-height:500px;
 height:500px;
-width:750px;
+width:712px;
+float:left;
 }
